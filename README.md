@@ -1,6 +1,6 @@
 <img src="ISDC Hackathon.png" />
 
-# {Team Name}
+# Browser Builders
 
 Welcome to the **ISDC Hackathon!** 🚀
 
