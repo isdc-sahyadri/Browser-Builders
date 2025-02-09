@@ -6,7 +6,7 @@ ranking
 tokenizer
 
 
-# to run the our ap do the folwing 
+# to run the search engine do the following
 # python -m crawler.crawler
 # python -m indexer.indexer
 # python app.py
