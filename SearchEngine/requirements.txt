@@ -3,3 +3,8 @@ requests
 beautifulsoup4
 ranking
 tokenizer
+
+# to run 
+# python -m crawler.crawler
+# python -m indexer.indexer
+# python app.py
