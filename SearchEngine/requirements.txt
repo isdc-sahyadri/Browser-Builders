@@ -4,7 +4,14 @@ beautifulsoup4
 ranking
 tokenizer
 
+
 # to run the our ap do the folwing 
 # python -m crawler.crawler
 # python -m indexer.indexer
 # python app.py
+
+#btw first u run go to search engine directory and do the above ones 
+#then run the matrix browser ig for that u need qt as explained in the vid
+#then put the local host (http://127.0.0.1:5000) in the matrix search tab and 
+#voila u can access ur private search engine and browser
+#to get the required the site u need to add url"s in the json file in  data folder ;)
