@@ -4,7 +4,7 @@ beautifulsoup4
 ranking
 tokenizer
 
-# to run 
+# to run the our ap do the folwing 
 # python -m crawler.crawler
 # python -m indexer.indexer
 # python app.py
