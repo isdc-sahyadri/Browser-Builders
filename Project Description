@@ -1,0 +1,12 @@
+Project Overview:
+  Custom Search Engine (Python):
+    You’ll develop a search engine in Python (using Flask or FastAPI) that processes queries locally.
+    It will index content (or return static results for now) and return relevant search results for each query.
+
+  Qt-Based Web Browser:
+    A web browser built using Qt WebEngine that allows for multiple tabs, navigation, and custom features.
+    Requires a Qt framework with QWebEngine
+    The browser will be configured to search the internet using your local search engine instead of relying on third-party search engines.
+
+Outcome:
+A self-hosted search engine and a custom web browser that communicates with it, allowing users to search the internet locally through the search engine. 
