@@ -1,5 +1,7 @@
 from flask import Flask, render_template, request
 from searcher.searcher import Searcher
+import os
+import json
 
 app = Flask(__name__)
 

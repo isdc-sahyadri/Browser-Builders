@@ -1,3 +1,6 @@
+import os
+import json
+
 class Searcher:
     def __init__(self):
         self.index_file = '../data/index.json'
